@@ -8,7 +8,7 @@ const about = {
   // each of these properties is optional - they can be left empty or deleted
   // the first element in the `names` array will be treated as your first name, and all the elements combined will be treated as your full name
   // each element in the `description` array will be treated as a separate paragraph
-  names: ['John', 'Doe'],
+  names: ['Fatimetou', 'HAB ALLAH'],
   greetingEmoji: '👋',
   role: 'Software Engineer',
   company: 'Acme Labs',
