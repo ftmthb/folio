@@ -10,15 +10,16 @@ const about = {
   // each element in the `description` array will be treated as a separate paragraph
   names: ['Fatimetou', 'HAB ALLAH'],
   greetingEmoji: '👋',
-  role: 'Software Engineer',
-  company: 'Acme Labs',
+  role: 'Data Engineer',
+  // company: 'Acme Labs',
   description: [
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    // 'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+ 
   ],
   resume: 'https://example.com',
   social: {
-    github: 'https://github.com',
-    linkedin: 'https://linkedin.com',
+    // github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/fatimetouhaballah',
   },
 }
 
